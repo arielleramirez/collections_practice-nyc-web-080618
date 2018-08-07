@@ -39,6 +39,5 @@ def find_a(dictionary)
 end
 
 def add_s(element,index)
-  [1,2].each_with_index.collect{|element,index|}
-
+  [1,2].each_with_index.collect{|element,index| }
 end
