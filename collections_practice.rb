@@ -36,6 +36,7 @@ def find_a(dictionary)
   dictionary.select { |word| word.start_with?('a')}
 end
 
-def add_s(element, index)
+def add_s(element,index)
+  [1,2].each_with_index.collect{|element,index|}
 
 end
