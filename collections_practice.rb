@@ -25,8 +25,8 @@ end
 
 def kesha_maker(dollar)
   arr = {}
-  dollar.each do |x|
-    x = s 
+  dollar.each do |s|
+    s = "$" 
   
 end
 
